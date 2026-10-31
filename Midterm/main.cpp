@@ -4,7 +4,6 @@
 #include "raymath.h"
 #include <vector>
 #include <time.h>
-//#include <Windows.h>
 
 void FirstDrawing()
 {
