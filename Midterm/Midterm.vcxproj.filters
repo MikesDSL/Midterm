@@ -29,5 +29,8 @@
     <ClInclude Include="include\rlgl.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="drawingDot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
