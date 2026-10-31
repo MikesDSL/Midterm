@@ -8,5 +8,7 @@
   - Increase Drawing Offset Distance
 ### Up Arrow
   - Increase Bigger Circle's Radius
-## Down Arrow
+### Down Arrow
   - Decrease Bigger Circle's Radius
+## Info
+- YAY I FINISHED sorry for taking so long
